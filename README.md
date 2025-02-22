@@ -2,7 +2,7 @@
 
 **`Business Intelligence Analyst / Business Data Analyst`**
 
-I'm a Business Intelligence / Business Data Analyst with a strong foundation on finance, digital transformation,<br>and project management. Known for a growth-oriented mindset, consistently seeking to enhance personal<br>and professional development through continuous learning. Passionate about leveraging data and strategic<br>insights to drive impactful business decisions.
+I'm a Business Intelligence Analyst with a strong foundation on finance, digital transformation,<br>and project management. Known for a growth-oriented mindset, consistently seeking to enhance personal<br>and professional development through continuous learning. Passionate about leveraging data and strategic<br>insights to drive impactful business decisions.
 
 
 ## 🌐 Socials:
