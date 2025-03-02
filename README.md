@@ -14,8 +14,10 @@ I'm a Business Intelligence Analyst with a strong foundation on finance, digital
 ![](https://github-readme-stats.vercel.app/api?username=thehelidz&theme=ocean_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thehelidz&theme=ocean_dark&hide_border=false)<br/>
 
+# 🔭 Power BI Dashboard Projects
 
----
+![FP20 January Challenge Dashboard - Airport Delays](https://github.com/user-attachments/files/19043367/PDF.FP20January.pdf)
+
 [![](https://visitcount.itsvg.in/api?id=thehelidz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
