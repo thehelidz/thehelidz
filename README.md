@@ -16,6 +16,11 @@ I'm a Business Intelligence Analyst with a strong foundation on finance, digital
 
 # 🔭 Power BI Dashboard Projects
 
+
+<img src="https://github.com/user-attachments/assets/28a99b99-21d8-4c70-95a2-c4c82bfe3d00" alt="Onyx Data March 2025 Challenge - Washington Crime Statistics" width="1150">
+
+### [Onyx Data March 2025 Challenge - Washington Crime Statistics Repository](https://github.com/thehelidz/Onyx-March-Challenge---Washington-Crime)
+
 <img src="https://github.com/user-attachments/assets/6c7a9ef5-9a83-42b1-9289-951babdc9d4b" alt="FP20 January 2025 Challenge - Airport Delays" width="400">
 
 ### [FP20 January 2025 Challenge - Airport Delays Repository](https://github.com/thehelidz/FP20-January-Challenge-2025)
@@ -23,6 +28,9 @@ I'm a Business Intelligence Analyst with a strong foundation on finance, digital
 <img src="https://github.com/user-attachments/assets/65a9bd39-79cd-4d3c-8375-85e421c45d33" alt="Onyx Data January 2025 Challenge - Merchandise Sales" width="400">
 
 ### [Onyx Data January 2025 Challenge - Merchandise Sales Repository](https://github.com/thehelidz/Onyx-Data-Challenge-January-2025)
+
+
+
 
 
 [![](https://visitcount.itsvg.in/api?id=thehelidz&icon=0&color=0)](https://visitcount.itsvg.in)
